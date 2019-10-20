@@ -1,1 +1,1 @@
-# Cardstuff
+A simple cardgame.
